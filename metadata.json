@@ -1,0 +1,6 @@
+{
+  "name": "Cross-Border Strategic Alliance Board Package",
+  "description": "Boardroom-ready governance, IP protection, and anti-bribery compliance framework for cross-border AI logistics joint ventures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
